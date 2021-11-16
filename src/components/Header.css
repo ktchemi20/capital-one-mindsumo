@@ -1,6 +1,6 @@
 .header {
     background-color: rgb(111, 73, 48);
-    color: rgb(86, 144, 58);
+    color: white;
     display: flex;
     align-items: center;
     flex-direction: column;
