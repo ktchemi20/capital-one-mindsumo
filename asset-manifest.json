@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/capital-one-mindsumo/static/css/main.a2d67791.chunk.css",
+    "main.js": "/capital-one-mindsumo/static/js/main.7cd46140.chunk.js",
+    "main.js.map": "/capital-one-mindsumo/static/js/main.7cd46140.chunk.js.map",
+    "runtime-main.js": "/capital-one-mindsumo/static/js/runtime-main.6dec4a3d.js",
+    "runtime-main.js.map": "/capital-one-mindsumo/static/js/runtime-main.6dec4a3d.js.map",
+    "static/js/2.17183b8a.chunk.js": "/capital-one-mindsumo/static/js/2.17183b8a.chunk.js",
+    "static/js/2.17183b8a.chunk.js.map": "/capital-one-mindsumo/static/js/2.17183b8a.chunk.js.map",
+    "static/js/3.0bea497e.chunk.js": "/capital-one-mindsumo/static/js/3.0bea497e.chunk.js",
+    "static/js/3.0bea497e.chunk.js.map": "/capital-one-mindsumo/static/js/3.0bea497e.chunk.js.map",
+    "index.html": "/capital-one-mindsumo/index.html",
+    "static/css/main.a2d67791.chunk.css.map": "/capital-one-mindsumo/static/css/main.a2d67791.chunk.css.map",
+    "static/js/2.17183b8a.chunk.js.LICENSE.txt": "/capital-one-mindsumo/static/js/2.17183b8a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/capital-one-mindsumo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dec4a3d.js",
+    "static/js/2.17183b8a.chunk.js",
+    "static/css/main.a2d67791.chunk.css",
+    "static/js/main.7cd46140.chunk.js"
+  ]
+}
