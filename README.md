@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+Attempt to build a web app that helps people find information on National Parks
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
